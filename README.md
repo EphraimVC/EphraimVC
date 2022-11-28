@@ -1,8 +1,8 @@
 
 - CURIOUSITY is my SUPERPOWER🦸🏻‍♂️
 - Hyper Island Stockholm Frontend Program Graduate 2022 👨🏻‍🎓🤘🏼
-- building stuff is my LifeTime hobby, both 👨🏻‍🏭 and 👨🏻‍💻
-- get in touch : ephraimmichael@live.com 📬
+- Building stuff is my LifeTime hobby, both 👨🏻‍🏭 and 👨🏻‍💻
+- Get in touch : ephraimmichael@live.com 📬
 - Fotball fan ⚽️🇵🇪🇸🇪
 - Just started to learn Python 🐍 👨🏻‍
 
