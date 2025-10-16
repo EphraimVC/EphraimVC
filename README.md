@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 Im currently studying to become a fullstack javascript developer - Chas academy<br> with big interest on python (side studies)<br>🦸🏻‍♂️ Curiosity as superpower <br>🧑🏻‍💻 July 2025 gonna start looking for internship, if you now any great workplace let me know<br>
+🧑🏻‍💻 Im currently studying to become a fullstack javascript developer - Chas academy<br> with big interest on python (side studies)<br>🦸🏻‍♂️ Curiosity as superpower <br>🧑🏻‍💻 Currwntly looking for internship with start in december, if you now any great workplace let me know<br>
 
 
 ## 🌐 Socials:
