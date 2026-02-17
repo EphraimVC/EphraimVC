@@ -1,7 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 Im currently studying to become a fullstack javascript developer - Chas academy<br> with big interest on python (side studies)<br>🦸🏻‍♂️ Curiosity as superpower <br>🧑🏻‍💻 Currwntly looking for internship with start in december, if you now any great workplace let me know<br>
-
-
+🧑🏻‍💻 Im currently studying to become a fullstack javascript developer - Chas academy<br> with big interest on python (side studies)<br>🦸🏻‍♂️ Curiosity as superpower <br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ephraim-valladares) 
 
